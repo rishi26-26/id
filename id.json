@@ -1,0 +1,74 @@
+{
+    "basics": {
+        "name": "RISHI GOYAL",
+        "label": "Student",
+	"picture": "https://avatars.githubusercontent.com/u/76446165?s=400&u=a0fbd1c26f16af07b022fb74885892ab9fda75e9&v=4",
+        "email": "2020KUEC2053@iiitkota.ac.in",
+        "phone": "+919680145901",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "LALSOT",
+            "postalCode": "303503",
+            "city": "DAUSA",
+            "countryCode": " India",
+            "region": "RAJASTHAN"
+        },
+        "profiles": [
+                {
+                "network": "Github",
+                "username": "rishi26-26",
+                "url": "https://github.com/rishi26-26"
+            },
+            
+            {
+                "network": "Instagram",
+                "username": "rishee_26",
+                "url": "https://www.instagram.com/_rishee_26/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Electronics And Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "traveling",
+            "keywords": [
+                "traveling"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                
+                "Badminton",
+		"Cricket",
+		"Football"
+            ]
+        }
+    ],
+    "references": []
+}
